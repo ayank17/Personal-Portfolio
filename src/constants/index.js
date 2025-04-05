@@ -138,8 +138,8 @@ export const projects = [
       { name: "Web dev ", color: "pink-text-gradient" },
     ],
     image: "https://as2.ftcdn.net/v2/jpg/05/65/06/85/1000_F_565068563_jSzYovhlcrwcVTOm05akpqVdZXdoOaNE.jpg",
-    source_code_link: "",
-    live_demo_link: "", // Add your live demo link here
+    source_code_link: "https://github.com/ayank17/Ai-Chatbot.git",
+    live_demo_link: "https://symphonious-treacle-41009c.netlify.app/", // Add your live demo link here
     category: "Web Dev",
   },
 ];
